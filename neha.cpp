@@ -6,7 +6,7 @@ int a,b,c;
 }
 int add(int p,q)
 {
-
+return x-z;
 }
 int sub(int p,q)
 {
